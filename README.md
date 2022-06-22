@@ -54,8 +54,8 @@ authentification "/auth/login"
 Сортировка по умолчанию ведется в алфавитном порядке по имени пользователя 'ASC' и по дате обновления желания 'DESC'.
 
 Использовалась настройка для базы
-DATABASE_URL="mysql://php_local_project:123456@127.0.0.1:3306/wish_list?serverVersion=5.7&charset=utf8mb4"
--------------------
+##### DATABASE_URL="mysql://php_local_project:123456@127.0.0.1:3306/wish_list?serverVersion=5.7&charset=utf8mb4"
+
 
 
 
