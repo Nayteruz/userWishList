@@ -1,0 +1,32 @@
+#symfony.lock
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+/logs/
+.idea
+.php-version
+.DS_Store
+.sass-cache/
+
+#/composer.lock
+/composer.phar
+
+/dump/
+###> symfony/phpunit-bridge ###
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
+/node_modules
+/vue3

@@ -1,0 +1,8 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+#lists:
+#    type: rest
+#    resource: App\Controller\Api\ApiController
+#    prefix: api
